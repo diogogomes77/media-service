@@ -1,0 +1,27 @@
+{
+  "name": "media-service",
+  "version": "1.0.0",
+  "description": "media backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogogomes77/media-service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diogogomes77/media-service/issues"
+  },
+  "homepage": "https://github.com/diogogomes77/media-service#readme",
+  "engines": {
+    "node": "17.4.x"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
