@@ -4,6 +4,6 @@ describe('dummy test', () => {
   });
 
   it('should be false', () => {
-    expect(200).not.toBe(200);
+    expect(200).not.toBe(400);
   });
 });
