@@ -1,2 +1,2 @@
-# video-service
+# media-service
 media backend
